@@ -37,7 +37,8 @@ Para este reto iniciamos como en el anterior creando las nuevas 2 ramas como se 
 Despues de esto el estudiante B arranca actualizando su carril rama carril 1 cpm ñps cambios subidos en el feature del reto, despues este crea una expresion lambda que genera una funcion que nos permire genear el calculo del numero mas grande de un listado de numeros ingresados
 <img width="737" height="652" alt="image" src="https://github.com/user-attachments/assets/a950333c-9642-48e5-a25c-5b0094e11523" />
 despues el estudiante A (juan jose laverde) arranca actualiazado su carril con los cambios subidos por el estudiante b. una vez realizado este el estudiante crea una expresion lambda para generar una funcion que nos permite calcular el numero mas pequeño de un listado de numeros ingresados y obtener una cantidad de datos como un numero 
-<img width="626" height="593" alt="image" src="https://github.com/user-attachments/assets/64fefbbc-bbca-412a-84b8-0927fdba47f3" />
+<img width="682" height="546" alt="image" src="https://github.com/user-attachments/assets/b872f904-042e-4b17-85ea-83078971eaa5" />
+
 <img width="617" height="189" alt="image" src="https://github.com/user-attachments/assets/6986a9f0-a3ff-4c74-9bee-0aab503397a0" />
 
 
