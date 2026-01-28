@@ -55,7 +55,7 @@ Llegamos a la final del reto 2 y solucionamos todo
 Se deja la documentacion de los commits 
 <img width="1534" height="627" alt="image" src="https://github.com/user-attachments/assets/1654283a-61ec-4d14-9c03-6301d5b09a2d" />
 
-#Reto 3 el eco misterioso 
+# Reto 3 el eco misterioso 
 Creamos una rama la principal para este reto 3 de la cual cada uno crea una subrama una builder y otra buffer en la cual cada uno va a ir trabajando , el estudiante A(juan manuel villegas) y el estudiante b(juan jose laverde) 
 <img width="587" height="365" alt="image" src="https://github.com/user-attachments/assets/5d98abdc-5cb0-4a87-9afc-2b1740ad987c" />
 <img width="655" height="328" alt="image" src="https://github.com/user-attachments/assets/6c250bd1-fe03-4a89-9bac-827fefae6eba" />
@@ -69,7 +69,7 @@ se hacen las correciones correspondientes
 se origina el conflicto cuando se quiere hacer merge en la segunda sub rama 
 <img width="641" height="88" alt="image" src="https://github.com/user-attachments/assets/b182d36c-d573-41fd-9780-0eec9718fabe" />
 
-#Preguntas finales 
+# Preguntas finales 
 1. ¿Cuál es la diferencia entre git merge y git rebase?
 
 Respuesta:
