@@ -19,7 +19,7 @@ public class CarreraParalela {
         int cantidad = lista.size();
         return new Resultados(max, min, cantidad);
     }
- 
+ }
 
 class Resultados {
     int max;
