@@ -33,6 +33,7 @@ Para este reto iniciamos como en el anterior creando las nuevas 2 ramas como se 
 <img width="712" height="52" alt="image" src="https://github.com/user-attachments/assets/a4d18f27-5dad-48a2-9659-f87705b7ee89" />
  Una vez hacemos esto el estudiante A ( juan jose Laverde) arranca cambiando el nombre del archivo de reto 2 a carreraparalela.java asi dejando listo el punto de partida
  <img width="876" height="451" alt="image" src="https://github.com/user-attachments/assets/6e7227b3-6dd4-44f0-a329-e904da2cb18e" />
+
 Despues de esto el estudiante B arranca actualizando su carril rama carril 1 cpm ñps cambios subidos en el feature del reto, despues este crea una expresion lambda que genera una funcion que nos permire genear el calculo del numero mas grande de un listado de numeros ingresados
 <img width="737" height="652" alt="image" src="https://github.com/user-attachments/assets/a950333c-9642-48e5-a25c-5b0094e11523" />
 despues el estudiante A (juan jose laverde) arranca actualiazado su carril con los cambios subidos por el estudiante b. una vez realizado este el estudiante crea una expresion lambda para generar una funcion que nos permite calcular el numero mas pequeño de un listado de numeros ingresados y obtener una cantidad de datos como un numero 
