@@ -20,7 +20,7 @@ public class CarreraParalela {
         return new Resultados(max, min, cantidad);
     }
  
-
+}
 class Resultados {
     int max;
     int min;
