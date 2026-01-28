@@ -1,5 +1,5 @@
 import java.util.function.UnaryOperator;
- 
+ // a
 public class EcoMisterioso {
     public static void main(String[] args) {
         UnaryOperator<String> eco = mensaje -> {
