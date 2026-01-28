@@ -1,4 +1,4 @@
-mport java.util.List;
+import java.util.List;
 import java.util.stream.Collectors;
  
 public class Reto1 {
@@ -20,7 +20,20 @@ public class Reto1 {
     }
 }
  
-// Interfaz funcional
+class Estudiante {
+    String nombre;
+    int edad;
+    int semestre;
+    String correo;
+ 
+    public Estudiante(String nombre, int edad, int semestre, String correo) {
+        this.nombre = nombre;
+        this.edad = edad;
+        this.semestre = semestre;
+        this.correo = correo;
+    }
+}
+ 
 @FunctionalInterface
 interface MensajeBienvenida {
     String generar(List<Estudiante> estudiantes);
