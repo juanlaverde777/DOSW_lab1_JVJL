@@ -12,15 +12,13 @@ public class CarreraParalela {
         System.out.println("Resultados (Carril 2 - Laverde): " + res);
     }
 
-    public static Resultados procesarDatos(List<Integer> lista) {
-
+  public static Resultados procesarDatos(List<Integer> lista) {
+   
+        int max = lista.stream().max(Integer::compareTo).orElse(0);
         int min = lista.stream().min(Integer::compareTo).orElse(0);
-
         int cantidad = lista.size();
-
-        return new Resultados(0, min, cantidad);
+        return new Resultados(max, min, cantidad);
     }
-}
  
 
 class Resultados {
