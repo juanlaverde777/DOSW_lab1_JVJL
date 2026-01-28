@@ -116,7 +116,11 @@ Finalmente despues de arreglar los conflictos se sube a la rama inicial
  cada uno crea el codigo de su metodo 
  
  <img width="724" height="210" alt="image" src="https://github.com/user-attachments/assets/08fc09bb-98c6-476f-a6b7-46f0d43d5b30" />
+ Al hacer el segundo merge se da un conflicto:
 
+<img width="622" height="83" alt="image" src="https://github.com/user-attachments/assets/523d178a-c68b-4444-bd6a-46dca658f921" />
+Despues de resolver el conflicto se sube la version sin conflictos:
+<img width="530" height="410" alt="image" src="https://github.com/user-attachments/assets/814a93dd-257c-478b-bb78-e48944a717ce" />
 
 
 # Preguntas finales 
