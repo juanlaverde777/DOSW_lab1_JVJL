@@ -38,7 +38,27 @@ Despues de esto el estudiante B arranca actualizando su carril rama carril 1 cpm
 <img width="737" height="652" alt="image" src="https://github.com/user-attachments/assets/a950333c-9642-48e5-a25c-5b0094e11523" />
 despues el estudiante A (juan jose laverde) arranca actualiazado su carril con los cambios subidos por el estudiante b. una vez realizado este el estudiante crea una expresion lambda para generar una funcion que nos permite calcular el numero mas pequeño de un listado de numeros ingresados y obtener una cantidad de datos como un numero 
 <img width="682" height="546" alt="image" src="https://github.com/user-attachments/assets/b872f904-042e-4b17-85ea-83078971eaa5" />
-
 <img width="617" height="189" alt="image" src="https://github.com/user-attachments/assets/6986a9f0-a3ff-4c74-9bee-0aab503397a0" />
+ En el primer choque se puede observar al ambos tener la funcion procesar datos pero con diferente implemntacion se genera el siguiente cionflicto
+ <img width="840" height="855" alt="image" src="https://github.com/user-attachments/assets/1bb8a7ae-102c-4104-8b04-24318fe4cbb6" />
+ Al hacer merge de forma correcta el codigo quedaria de la siguiente forma 
+ <img width="750" height="751" alt="image" src="https://github.com/user-attachments/assets/b5d7e276-07c8-4638-9918-653e29663286" />
+se agrega el codigo para verificacion si es impar en el caso de estudiante a y si es par en caso de estudiante b 
+<img width="793" height="845" alt="image" src="https://github.com/user-attachments/assets/ee31d191-d95b-4456-a25e-f5acc047513a" />
+<img width="745" height="268" alt="image" src="https://github.com/user-attachments/assets/591bcde2-010c-41b3-a87a-6af98cad0b2e" />
+<img width="695" height="150" alt="image" src="https://github.com/user-attachments/assets/93d64233-a31a-4935-a558-38354905da1e" />
+<img width="776" height="782" alt="image" src="https://github.com/user-attachments/assets/4cdc085d-2937-46d4-a5fc-57a333fc8063" />
+Llegamos a la final del reto 2 y solucionamos todo
+<img width="931" height="912" alt="image" src="https://github.com/user-attachments/assets/221d8f5b-94ea-4569-8578-e49bc75c252b" />
+<img width="842" height="373" alt="image" src="https://github.com/user-attachments/assets/c713cc7b-8633-4b6d-a1ad-829b74c163a2" />
+<img width="739" height="208" alt="image" src="https://github.com/user-attachments/assets/bb016fa0-f635-485f-aac0-32f80e823609" />
+Se deja la documentacion de los commits 
+<img width="1534" height="627" alt="image" src="https://github.com/user-attachments/assets/1654283a-61ec-4d14-9c03-6301d5b09a2d" />
+
+
+
+ 
+
+
 
 
