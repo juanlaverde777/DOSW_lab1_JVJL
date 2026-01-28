@@ -117,6 +117,8 @@ Finalmente despues de arreglar los conflictos se sube a la rama inicial
  
  <img width="724" height="210" alt="image" src="https://github.com/user-attachments/assets/08fc09bb-98c6-476f-a6b7-46f0d43d5b30" />
 
+<img width="622" height="83" alt="image" src="https://github.com/user-attachments/assets/b98e5a49-61ff-4972-baae-003db7394e2f" />
+<img width="530" height="410" alt="image" src="https://github.com/user-attachments/assets/862cb628-afbf-47a6-aec4-69664967c1b0" />
 
 
 # Preguntas finales 
