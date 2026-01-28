@@ -104,6 +104,21 @@ se origina el conflicto cuando se quiere hacer merge en la segunda sub rama
 
 <img width="641" height="88" alt="image" src="https://github.com/user-attachments/assets/b182d36c-d573-41fd-9780-0eec9718fabe" />
 
+Finalmente despues de arreglar los conflictos se sube a la rama inicial 
+
+<img width="644" height="251" alt="image" src="https://github.com/user-attachments/assets/58dbf360-d290-42c7-9dff-1bc4c7254c3d" />
+
+# Reto 5 
+ Este reto es una arena de batlla el estudiante A(juan mnauel villegas) usa hashset, y el estudiante B(juan jose laverde) y el treeset
+ 
+ <img width="565" height="439" alt="image" src="https://github.com/user-attachments/assets/7fc2e6ac-7b8e-49a3-a6e0-a0f04955d29a" />
+ 
+ cada uno crea el codigo de su metodo 
+ 
+ <img width="724" height="210" alt="image" src="https://github.com/user-attachments/assets/08fc09bb-98c6-476f-a6b7-46f0d43d5b30" />
+
+
+
 # Preguntas finales 
 1. ¿Cuál es la diferencia entre git merge y git rebase?
 
