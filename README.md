@@ -55,11 +55,82 @@ Llegamos a la final del reto 2 y solucionamos todo
 Se deja la documentacion de los commits 
 <img width="1534" height="627" alt="image" src="https://github.com/user-attachments/assets/1654283a-61ec-4d14-9c03-6301d5b09a2d" />
 
+#Reto 3 el eco misterioso 
+Creamos una rama la principal para este reto 3 de la cual cada uno crea una subrama una builder y otra buffer en la cual cada uno va a ir trabajando , el estudiante A(juan manuel villegas) y el estudiante b(juan jose laverde) 
+<img width="587" height="365" alt="image" src="https://github.com/user-attachments/assets/5d98abdc-5cb0-4a87-9afc-2b1740ad987c" />
+<img width="655" height="328" alt="image" src="https://github.com/user-attachments/assets/6c250bd1-fe03-4a89-9bac-827fefae6eba" />
+
+El estudiante A crea un codigo que recibe un mensaje string y lo repite 3 veces concatenado con un espacio 
+<img width="597" height="197" alt="image" src="https://github.com/user-attachments/assets/36497300-1e9c-40d9-a1b2-e6b42a7d2d92" />
+EL estudiante b crea un codigo que recibe un string y invierte sus letras 
+<img width="490" height="229" alt="image" src="https://github.com/user-attachments/assets/d1419b9d-91a2-48a3-970d-f36b3e41ed6c" />
+se hacen las correciones correspondientes 
+<img width="722" height="232" alt="image" src="https://github.com/user-attachments/assets/1fa870ec-c96e-494c-880a-89b7b2c998d6" />
+se origina el conflicto cuando se quiere hacer merge en la segunda sub rama 
+<img width="641" height="88" alt="image" src="https://github.com/user-attachments/assets/b182d36c-d573-41fd-9780-0eec9718fabe" />
+
+#Preguntas finales 
+1. ¿Cuál es la diferencia entre git merge y git rebase?
+
+Respuesta:
+Cuando usamos git merge, Git une dos ramas creando un commit de merge, conservando todo el historial tal como ocurrió. En cambio, git rebase lo que hace es reorganizar los commits, poniendo los de una rama encima de otra, lo que deja un historial más limpio, pero cambia el orden de los commits
+
+2. Si dos ramas modifican la misma línea de un archivo, ¿qué sucede al hacer merge?
+
+Respuesta:
+Git no puede decidir automáticamente cuál cambio es el correcto, así que se produce un conflicto. En ese caso, Git marca el archivo y nos toca entrar, revisar las dos versiones y decidir cuál dejar o combinarlas, luego hacer git add y confirmar el merge con un commit
 
 
+3. ¿Cómo puedes ver gráficamente el historial de merges y ramas en consola?
 
+Respuesta:
+Podemos usar el comando:
+<img width="265" height="31" alt="image" src="https://github.com/user-attachments/assets/c502c977-3f7e-47e0-bc88-8904b9703345" />
+Esto nos muestra el historial de commits con ramas y merges de forma visual, lo cual ayuda mucho para entender cómo se ha movido el proyecto
+
+4. Explica la diferencia entre un commit y un push.
+
+Respuesta:
+Un commit guarda los cambios solo en nuestro repositorio local, es como una foto del estado del código. En cambio, git push envía esos commits al repositorio remoto gitHub para que los demás puedan verlos
+
+5. ¿Para qué sirven git stash y git pop?
+
+Respuesta:
+git stash sirve para guardar cambios temporalmente sin hacer commit, por ejemplo cuando necesitamos cambiar de rama rápido. Luego, con git pop, recuperamos esos cambios y los volvemos a aplicar en el código
+
+6. ¿Qué diferencia hay entre HashMap y HashTable?
+
+Respuesta:
+hashmap no es sincronizado y permite una clave null, por lo que es más rápido y se usa más por lo general y se suele usar en los cofigos que son mas modernos. HashTable sí es sincronizado , pero es más antiguo y menos eficiente, por eso casi no se usa en proyectos modernos.
+
+7. ¿Qué ventajas tiene Collectors.toMap() frente a un bucle tradicional para llenar un mapa?
+
+Respuesta:
+Collectors.toMap() hace el código más corto, claro y expresivo, y se integra bien con streams. Evita escribir bucles manuales y reduce errores, además de que el código se ve más limpio y moderno.
  
+8. Si usas List con objetos y luego aplicas stream().map(), ¿qué tipo de operación estás haciendo?
 
+Respuesta:
+Estamos haciendo una operación de transformación, porque map() toma cada elemento de la lista y lo convierte en otra cosa, por ejemplo extraer un atributo del objeto.
 
+9. ¿Qué hace el método stream().filter() y qué retorna?
 
+Respuesta:
+filter() sirve para seleccionar elementos que cumplan una condición. Retorna un Stream, no una lista directamente, por lo que después normalmente se usa collect() para obtener una colección.
 
+10. Describe el paso a paso de cómo crear una rama desde develop si es una funcionalidad nueva.
+
+Respuesta:
+Primero nos cambiamos a develop, luego nos aseguramos de tenerla actualizada y finalmente creamos la nueva rama:
+<img width="386" height="51" alt="image" src="https://github.com/user-attachments/assets/d6a88387-fdfd-4523-a50e-12c2b2469f58" />
+Así trabajamos la funcionalidad sin afectar otras ramas.
+
+11. ¿Cuál es la diferencia entre crear una rama con git branch y con git checkout -b?
+
+Respuesta:
+git branch solo crea la rama, pero no nos cambia a ella. En cambio, git checkout -b crea la rama y nos cambia automáticamente, por eso es más práctico y es el que más usamos.
+
+12. ¿Por qué es recomendable crear ramas feature/ para nuevas funcionalidades en lugar de trabajar en main directamente?
+
+Respuesta:
+Porque trabajar en main directamente es riesgoso. Usar ramas feature/ nos permite desarrollar, probar y equivocarnos sin dañar el código principal. Además, facilita el trabajo en equipo y mantiene el proyecto organizado.
