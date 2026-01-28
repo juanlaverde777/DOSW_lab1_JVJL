@@ -1,4 +1,21 @@
 class Resultados {
+<<<<<<< HEAD
+    int max;
+    int min;
+    int cantidad;
+
+    public Resultados(int max, int min, int cantidad) {
+        this.max = max;
+        this.min = min;
+        this.cantidad = cantidad;
+    }
+
+    @Override
+    public String toString() {
+        return "Max: " + max + ", Min: " + min + ", Cantidad: " + cantidad;
+    }
+}
+=======
 
     int max;
 
@@ -26,3 +43,4 @@ class Resultados {
 
 }
  
+>>>>>>> 07ce6ff09d8c32e5ce0d67bad5740102b810d33e

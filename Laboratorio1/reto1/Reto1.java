@@ -11,10 +11,14 @@ public class Reto1 {
         );
  
         MensajeBienvenida bienvenida = (lista) ->
-            "¡Hola, bienvenidos! " +
+            "¡Hola, bienvenidos! Nosotros somos la pareja conformada por " +
             lista.stream()
-                .map(e -> e.nombre)
-                .collect(Collectors.joining(" y "));
+                .map(e -> e.nombre + ", estudiante de la escuela de " + e.semestre + ".° semestre de " + e.edad + " años")
+                .collect(Collectors.joining(" y ")) +
+            ". Nuestros correos institucionales son " +
+            lista.stream()
+                .map(e -> e.correo)
+                .collect(Collectors.joining(" y ")) + ".";
  
         System.out.println(bienvenida.generar(estudiantes));
     }
