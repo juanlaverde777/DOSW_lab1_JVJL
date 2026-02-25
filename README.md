@@ -186,3 +186,16 @@ git branch solo crea la rama, pero no nos cambia a ella. En cambio, git checkout
 
 Respuesta:
 Porque trabajar en main directamente es riesgoso. Usar ramas feature/ nos permite desarrollar, probar y equivocarnos sin dañar el código principal. Además, facilita el trabajo en equipo y mantiene el proyecto organizado.
+
+# OBSERVACIONES - GENERALES
+
+<img width="802" height="397" alt="image" src="https://github.com/user-attachments/assets/f18d7e39-fdb9-4bbb-91dd-b08e8ee03b2a" />
+<img width="803" height="670" alt="image" src="https://github.com/user-attachments/assets/6b33fbe5-059c-4784-b209-130c6d1ee3dc" />
+<img width="801" height="304" alt="image" src="https://github.com/user-attachments/assets/f42ca6b8-f6fc-45eb-a408-6230751ca39d" />
+
+## OBSERVACIONES - ONBOARDING (INDIVIDUAL)
+<img width="470" height="128" alt="image" src="https://github.com/user-attachments/assets/e1ccf097-a4ad-4b7c-980a-e18c38d0864a" />
+
+## NOTA
+<img width="346" height="128" alt="image" src="https://github.com/user-attachments/assets/cba680b1-4698-4bd6-a4ca-3a3a63be9ba3" />
+
